@@ -20,7 +20,7 @@
     "babel-preset-react": "^6.11.1",
     "browserify-zlib-next": "^1.0.1",
     "cross-env": "^3.1.4",
-    "electron": "^1.6.5",
+    "electron": "^9.1.0",
     "inquirer": "^3.0.1",
     "ipfs-api": "^14.0.0",
     "is-ipfs": "^0.2.1",
